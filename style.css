@@ -1,106 +1,88 @@
 @charset "utf-8";
 .logo {
-	margin-top: 19px;
+	margin-top: 8px;
 	margin-bottom: 8px;
 	margin-left: 44px;
+
+
+
+
 }
 .choose {
-	margin-left: 120px;
-	margin-right: -92px;
-	margin-top: 50px;
+	margin-left: 10px;
+	position: relative;
+	margin-right: 10px;
+	left: 38%;
+	float: left;
+	margin-top: 39px;
 }
-.greenline {
+
+.greenline  {
 	background-color: #2CCBB5;
-	margin-top: 30px;
-	height: 6px;
-}
-
-.pic-bg {
-	margin-top: 24px;
-	margin-left: 55px;
-
-}
-.nav flex-colum {
-	padding-left: 33px;
-
-}
-.row left {
-
-
-
-}
-
-.txt-area  {
-	font-family: 'Lato', sans-serif;
-	color: #2CCBB5;
-	font-weight: bold;
-	font-size: 72pt;
-	margin-left: 153px;
-	position: absolute;
-	text-transform: uppercase;
-	-webkit-box-shadow: 0px 0px;
-	box-shadow: 0px 0px;
-}
-#cake {
-	padding-top: 76px;
-	color: #2CCBB5;
-	padding-left: 0px;
-	
-}
-
-
-
-.nav.flex-column {
-	margin-top: 1px;
-}
-
-
-.bottontext {
-	margin-top: 22px;
-	font-family: 'Lato', sans-serif;
-	font-size: 16pt;
-	font-weight: bold;
-	color: #2CCBB5;
-	padding-left: 59px;
-	padding-top: 14px;
-}
-#botton   {
-}
-#botton .nav-link:hover  {
-	padding-left: 106px;
-	color: #F8A50D;
-	font-size: 26pt;
-	font-family: 'Lato', sans-serif;
-}
-
-.cakelist {
-	padding-left: 1px;
-
-
-
-
-
-
-
-
-
+	height: 8px;
 }
 .breadcrumb {
-	background-color: #FEFEFE;
-	color: #FFFFFF;
+	background-color: #FFFFFF;
 }
-.breadcrumb-item {
-	color: #2CCBB5;
-}
-.container-bt {
-	height: 154px;
-	background-color: #2CCBB5;
-	margin-top: 73px;
+
+.coffee-bg {
+	position: fixed;
+	left: 0px;
+
+
+
 }
 .nav flex-column {
-	margin-top: 60px;
-	color: #2CCBB5;
-	margin-left: 90px;
 }
+.bottontext {
+}
+
 .nav-link {
+}
+
+
+#coffeetown {
+	color: #2CCBB5;
+	font-family: 'Lato', sans-serif;
+	padding-top: 260px;
+	padding-left: 92px;
+	font-size: 66pt;
+	font-style: italic;
+	font-weight: bold;
+}
+#coffeetown:hover {
+	color: #2CCBB5;
+	font-size: 75pt;
+	font-family: 'Lato', sans-serif;
+	padding-top: 270px;
+	padding-left: 92px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.bottontext {
+	margin-top: 31px;
+	font-size: 16pt;
+	font-family: 'Lato', sans-serif;
+	color: #2CCBB5;
+	font-weight: bold;
+	top: 64px;
+	left: 103px;
+}
+#botton {
+	padding-top: 80px;
+	padding-left: 151px;
+}
+.tex-area {
+	color: #2CCBB5;
+	font-size: 98pt;
+}
+#cake {
+}
+
+
+#botton .nav-link:hover {
+	color: #F8A50D;
+	font-family: 'Lato', sans-serif;
+	font-size: 26pt;
 }
